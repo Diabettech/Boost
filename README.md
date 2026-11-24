@@ -216,6 +216,8 @@ Check out the release tag and build `fullRelease` with your existing keystore.
 Open Config Builder and check that OpenAPS Boost is the selected APS. Check your maximum IOB and
 SMB settings, then watch the first cycles in the APS tab before relying on it.
 
+[Advanced settings](_docs/advanced-settings.md) lists every setting under Advanced Settings and how each one changes dosing.
+
 ## Tools
 
 The [Simulator](https://diabettech.github.io/Boost/boost_simulator.html) shows how Boost sizes a dose
